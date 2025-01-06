@@ -1,0 +1,881 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Walter",
+      "surnames": "Chapilliquén Zeta",
+      "title": "Desarrollador Full-Stack Senior | Líder Técnico | Especialista en Soluciones Cloud | Soluciones IA | Arquitecto SaaS | Vulnerabilidad de Software",
+      "description": "Más de 15 años de experiencia como Desarrollador Full-Stack en aplicaciones SAAS y Arquitectura de Software. Habilidades en vulnerabilidad de software y videojuegos, e implementación de soluciones basadas en Inteligencia Artificial. \n\nEspecializado en Backend y Frontend, Javascript/TypeScript, React.js, Node.js con sólida experiencia en despliegue y escalabilidad en Google Cloud Platform (GCP), AWS y otros servicios Cloud. \n\nExperto en diseñar soluciones innovadoras que impactan directamente en la experiencia del usuario y en la escalabilidad de proyectos de startups.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/06/47e48bac-c503-4150-b1bb-535755722d71_1718272612309-(1).jpg",
+        "alt": "1718272612309 (1).jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJxz7uGfbFBZERSi5FzLlsIBQ)",
+        "country": "Perú",
+        "region": "Callao",
+        "municipality": "Lima"
+      }
+    },
+    "interestingFacts": [
+      {
+        "topic": "Conocimientos en Inteligencia Artificial",
+        "fact": "Integración con servicios de AI y aplicaciones en aprendizaje automático para personalización y experiencia del usuario."
+      },
+      {
+        "topic": "Experiencia amplia en desarrollo Full-Stack",
+        "fact": "Más de 15 años de experiencia en Backend y Frontend."
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "WAI.pe - Web de noticias sobre Inteligencia Artificial",
+        "type": "other",
+        "URL": "https://wai.pe",
+        "summary": "Blog de noticias, lanzamientos, y temas relacionados en Inteligencia Artificial",
+        "authors": [
+          {
+            "name": "Walter",
+            "surnames": "(WAI Technology)",
+            "title": "Author"
+          }
+        ]
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/walter-chapilliquen-wzvang/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/wZVanG"
+      },
+      {
+        "type": "stackoverflow",
+        "URL": "https://stackoverflow.com/users/1074519/walter-chapilliquen-wzvang"
+      },
+      {
+        "type": "other",
+        "URL": "http://wai.pe",
+        "description": "Blog IA"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "WAI Technology",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/06/5fdb36e7-d3c9-45ab-8b37-8d0728132e54_305487446_5793997705.png",
+            "alt": "305487446_579399770535258_3105184368059755503_n (1).png"
+          },
+          "URL": "https://wai.technology"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Full-Stack Senior",
+            "startDate": "2021-10-01",
+            "challenges": [
+              {
+                "description": "Skills: JavaScript · TypeScript · Node.js · Python · Amazon Web Services (AWS) · Google Cloud · Amazon S3 · WebSockets · Aprendizaje automático · OpenAI · Vertex · Docker · Supabase · MongoDB · MySQL · SQL · Nginx · AWS Lambda · Amazon EC2 · AngularJS · React.js · React Native · Electron.js · Angular Material · MEAN Stack · Sails.js · CodeIgniter · Express.js · PHP · Material Design de Google"
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "WAI Technology",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/06/2da1d329-1a53-4eac-824a-283f93e30f21_305487446_5793997705.png",
+            "alt": "305487446_579399770535258_3105184368059755503_n (1).png"
+          },
+          "URL": "https://wai.technology"
+        },
+        "roles": [
+          {
+            "name": "Jefe técnico de software",
+            "startDate": "2021-10-01",
+            "challenges": [
+              {
+                "description": "Skills: Gestión de personal técnico · Infraestructura de software · Liderazgo de equipos de desarrollo · Google Cloud · Amazon Web Services (AWS) · Software como servicio (SaaS) · Arquitectura de sistemas · API de OpenAI"
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Corporación Equicom SAC",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/06/e8c2ce7a-a25b-45b8-89dc-d97f7e04b1ed_images-(3).jpg",
+            "alt": "images (3).jpg"
+          },
+          "URL": "https://equicom.pe"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Full-Stack Senior",
+            "startDate": "2019-01-01",
+            "finishDate": "2021-03-31",
+            "challenges": [
+              {
+                "description": "Diseñé e implementé sistemas innovadores en diversos entornos. Creé una plataforma de gestión educativa con AngularJS, Node.js y MariaDB, alojada en infraestructura cloud, lo que garantizó escalabilidad y disponibilidad, facilitando la transición al aprendizaje remoto durante la pandemia. Este sistema mejoró la accesibilidad y la eficiencia administrativa. Desarrollé un sistema de facturación electrónica escalable utilizando JavaScript, PHP y MySQL, cumpliendo normativas fiscales y reduciendo errores operativos, con alojamiento en la nube para manejar picos de demanda. Optimicé sistemas heredados mediante la migración de PHP 5 a PHP 7 y de MySQL a MariaDB, logrando un incremento del 35% en el rendimiento, reduciendo costos y mejorando la estabilidad operativa. Además, modernicé aplicaciones migrando de jQuery a tecnologías como JavaScript Nativo y AngularJS, mejorando el rendimiento, la escalabilidad y la experiencia del usuario. Estos proyectos reflejan mi capacidad para integrar tecnologías modernas, soluciones cloud y generar impacto positivo en usuarios y negocios."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Aimbot Software",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/06/10f72152-4896-4aaa-ab46-df5842a6ad0a_305492785_6237300691.png",
+            "alt": "305492785_623730069124475_3273986989445169462_n.png"
+          },
+          "URL": "https://www.facebook.com/DragonBound.Aimbot"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Full-Stack Semi Senior",
+            "startDate": "2012-12-01",
+            "finishDate": "2021-02-28",
+            "challenges": [
+              {
+                "description": "Desarrollé una extensión para Chrome que automatizó procesos en un juego HTML5 mediante la identificación y explotación controlada de vulnerabilidades en el código cliente, utilizando técnicas avanzadas de inyección de código y manipulación dinámica del DOM. Esto permitió interceptar y modificar el comportamiento del juego en tiempo de ejecución, mejorando la experiencia del usuario a través de cálculos avanzados basados en física de movimiento parabólico.\n\nAdemás, lideré el desarrollo full stack del sistema de suscripción de usuarios, gestionando tanto el frontend como el backend con tecnologías modernas como Node.js, Websockets, AngularJS, MongoDB y la integración de pagos mediante PayPal. Implementé y desplegué la solución utilizando Google Compute Engine, garantizando un rendimiento escalable y eficiente.\n\nEste proyecto me permitió aplicar de manera práctica conocimientos avanzados en el diseño e implementación de algoritmos y vulnerabilidades, demostrando su uso en plataformas complejas."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "AlonSoft",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/06/6ced2e35-ea62-49aa-b273-c161e3363cf6_images-(4).jpg",
+            "alt": "images (4).jpg"
+          },
+          "URL": "https://www.facebook.com/alonsoftperu/"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Web Junior",
+            "startDate": "2012-06-01",
+            "finishDate": "2012-11-30",
+            "challenges": [
+              {
+                "description": "Desarrollé plataformas innovadoras en sectores clave: una plataforma de apuestas en línea con funciones de red social e integración de datos deportivos en tiempo real mediante scraping con Betradar, utilizando JavaScript y PHP, y una solución para la gestión educativa para optimizar procesos académicos y administrativos en instituciones. Ambas iniciativas destacaron por su capacidad de ofrecer experiencias interactivas y eficientes, diferenciándose en sus respectivos mercados y mejorando significativamente la experiencia del usuario final."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Apache",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Stack Overflow",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/06/fe33c8ab-59e6-482e-ab2e-a55a3eb6351b_stack_overflow_icon.png",
+            "alt": "Stack_Overflow_icon.svg.png"
+          },
+          "URL": "https://stackoverflow.com/users/1074519/walter-chapilliquen-wzvang"
+        },
+        "roles": [
+          {
+            "name": "Investigador colaborador",
+            "startDate": "2011-12-01",
+            "finishDate": "2024-12-31",
+            "challenges": [
+              {
+                "description": "He tenido la oportunidad de contribuir a la comunidad de desarrolladores en StackOverflow, logrando 12,000 puntos de reputación y acumulando 2.8 millones de vistas en mis respuestas. Estas interacciones han sido una valiosa experiencia para compartir conocimientos en JavaScript, brindar soluciones a problemas complejos y apoyar a más de 10,000 desarrolladores en sus desafíos técnicos. A través de este esfuerzo, he mejorado mi habilidad para comunicar conceptos técnicos en inglés y he recibido reconocimiento en forma de medallas, reflejando mi compromiso con el aprendizaje continuo de tecnologías modernas."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sun Digital"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de páginas web autónomo",
+            "startDate": "2008-01-01",
+            "finishDate": "2012-01-31",
+            "challenges": [
+              {
+                "description": "Desarrollé sitios web personalizados utilizando tecnologías LAMP (Linux, Apache, MySQL, PHP), Javascript / jQuery, adaptándome a las necesidades específicas de clientes y pequeños negocios. En ese entonces, los proyectos mayormente se desplegaban en hostings compartidos y dedicados, implementando cPanel para la gestión y configuración de los servidores Apache. Mi enfoque se centró en crear soluciones intuitivas y funcionales, optimizando el rendimiento y asegurando tiempos de carga rápidos. Estas iniciativas permitieron a mis clientes mejorar su presencia digital, alcanzar audiencias más amplias y aprovechar nuevas oportunidades de mercado, apoyando el crecimiento de sus negocios."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Apache",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "SirveFácil - Innovación en restaurantes",
+          "description": "Desarrollé e implementé una solución innovadora que combina inteligencia artificial y análisis de datos para optimizar la experiencia de los comensales. La plataforma incluyó una Carta Digital Interactiva que permitió aumentar la rotación de mesas en un 30% y generar recomendaciones personalizadas basadas en patrones de consumo, incrementando la fidelización de clientes y las ventas.",
+          "URL": "https://youtu.be/SfV4BhrfxIA",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/06/369435a5-6d45-4209-8e65-0fec40f82a4d_292369025_1022001592.png",
+            "alt": "292369025_102200159234589_529009288435198520_n.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-12-01",
+            "competences": [
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Clini: Asistente de salud digital con inteligencia artificial",
+          "description": "Diseñé y lideré el desarrollo de Clini, una plataforma innovadora que mejora el acceso a servicios médicos mediante la integración de IA a través de la API de Vertex AI y tecnologías como Node.js. Implementé funcionalidades en tiempo real para personalizar la interacción entre pacientes y médicos, logrando reducir los tiempos de espera en un 35% y alcanzar un 95% de satisfacción del usuario. El proyecto, desplegado en Google Cloud Platform (GCP) con una disponibilidad del 99.9%, fue reconocido por el Colegio Médico del Perú y la Universidad de Piura, consolidándose como una solución revolucionaria en el sector salud.",
+          "URL": "https://www.gob.pe/institucion/unp/noticias/888120-wai-technology-y-la-facultad-de-medicina-de-la-universidad-nacional-de-piura-una-alianza-innovadora",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/06/d8b1b627-4d69-4391-b93c-d171d96b8730_355128319_3060357784.jpg",
+            "alt": "355128319_306035778415279_675581079678563974_n.jpg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-12-01",
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React Native",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Ranking y análisis de datos",
+          "description": "Creé una plataforma para centralizar métricas de desempeño de jugadores utilizando Angular y Supabase. Este sistema permite analizar resultados, habilitar estrategias basadas en datos y fomentar la competitividad entre usuarios, con una interfaz responsiva y preparada para escalabilidad futura.",
+          "URL": "https://farol.top",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/06/adb34cd7-401a-4629-a67f-95cc26a538c5_54469796.png",
+            "alt": "54469796.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-01-01",
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2023-12-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "IA en empresas con WAI Technology",
+          "description": "Actualmente implemento soluciones basadas en inteligencia artificial para optimizar procesos clave en empresas y negocios. Los proyectos abarcaron desde la predicción de demanda hasta la personalización de servicios al cliente, logrando resultados medibles como una reducción del 25% en costos operativos y un incremento en la satisfacción del cliente en diversos sectores.",
+          "URL": "https://wai.technology",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/06/7f9e33cd-e433-414a-823c-0c3f9fac8a3d_305487446_5793997705.png",
+            "alt": "305487446_579399770535258_3105184368059755503_n (1).png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2019-10-01",
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "ChatGPT",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Innovación Tecnológica del Sector Salud en Perú",
+          "description": "Liderazgo en el desarrollo de Clini, un asistente de salud innovador que mejora el acceso médico en comunidades desatendidas. Reducción del tiempo de espera en un 35% y una satisfacción del 95%, respaldada por reconocimiento del Colegio Médico del Perú.",
+          "URL": "https://www.gob.pe/institucion/unp/noticias/888120-wai-technology-y-la-facultad-de-medicina-de-la-universidad-nacional-de-piura-una-alianza-innovadora",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/06/c343d6a9-317b-40f0-a0e0-2989b9ef2dd8_355128319_3060357784.jpg",
+            "alt": "355128319_306035778415279_675581079678563974_n.jpg"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2023-12-01",
+        "tags": [
+          "Desarrollo"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "React Native",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "DragonBound Aimbot",
+          "description": "Desarrollo de una extensión avanzada para Chrome que integró técnicas de inyección de código y manipulación dinámica del DOM en un entorno HTML5, optimizando la experiencia del usuario mediante cálculos complejos en tiempo real. Este proyecto me permitió profundizar en el diseño de algoritmos y el análisis de vulnerabilidades, estableciendo una base sólida para abordar desafíos técnicos complejos en mi carrera profesional",
+          "URL": "https://www.facebook.com/DragonBound.Aimbot",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/06/e48d9d81-3194-4d6f-850d-d603ed747e92_305492785_6237300691.png",
+            "alt": "305492785_623730069124475_3273986989445169462_n.png"
+          }
+        },
+        "type": "launch",
+        "publishingDate": "2012-12-01",
+        "tags": [
+          "Software de Juegos"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "AngularJS",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Stackoverflow Colaborador",
+          "description": "Reconocido en la comunidad global de desarrolladores en StackOverflow al alcanzar cerca de 12,000 puntos de reputación y 2.8 millones de vistas en mis respuestas técnicas. Este logro refleja mi capacidad para resolver problemas complejos en JavaScript, así como mi compromiso con el aprendizaje continuo y el intercambio de conocimientos, impactando positivamente a miles de desarrolladores en sus proyectos",
+          "URL": "https://stackoverflow.com/users/1074519/walter-chapilliquen-wzvang",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/06/bf3a45bb-780f-4c6f-9b05-ea25b9ffb22e_stack_overflow_icon.png",
+            "alt": "Stack_Overflow_icon.svg.png"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2011-12-01",
+        "tags": [
+          "Desarrollo"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Illustrator",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Analytics",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "S3",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WebSockets",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "AWS",
+        "startDate": "2024-06-01",
+        "institution": {
+          "name": "Talently",
+          "URL": "https://talently.tech/certification/a90845dc-4076-4014-abfd-09b7e83eb459",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/06/eea9611e-6f12-4618-981b-2fa8bd2b3f01_talentlytech_logo.jpg",
+            "alt": "talentlytech_logo.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "AngularJS",
+        "startDate": "2024-06-01",
+        "institution": {
+          "name": "Talently",
+          "URL": "https://talently.tech/certification/5ab79fa7-3540-4187-a10e-54871d527b8a",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/06/b2eb6d71-a6d3-4138-9793-d1f1bcf54997_talentlytech_logo.jpg",
+            "alt": "talentlytech_logo.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AngularJS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Análisis de Sistemas",
+        "startDate": "2009-01-01",
+        "institution": {
+          "name": "Universidad de Piura"
+        },
+        "finishDate": "2012-01-01"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Javascript Front-End",
+        "startDate": "2024-05-01",
+        "institution": {
+          "name": "Talently",
+          "URL": "https://talently.tech/certification/001ed0b5-a29b-476c-a4d6-e001f9cc7e75",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/06/e8f4c9dc-2af2-4f5f-9371-93dd62bfa070_talentlytech_logo.jpg",
+            "alt": "talentlytech_logo.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "NodeJS",
+        "startDate": "2024-07-01",
+        "institution": {
+          "name": "Talently",
+          "URL": "https://talently.tech/certification/48fdf57e-eb2d-4800-a1a0-eb3e003ca2db",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/06/193af101-c5e7-4742-9f35-52edaf6c210a_talentlytech_logo.jpg",
+            "alt": "talentlytech_logo.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Python",
+        "startDate": "2024-09-01",
+        "institution": {
+          "name": "Talently",
+          "URL": "https://talently.tech/certification/e29fed55-fef0-4add-88f6-35f8a8ed8b07",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/06/c93dee5e-6abb-4bbb-8e9e-5ee62405b83b_talentlytech_logo.jpg",
+            "alt": "talentlytech_logo.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "React Native",
+        "startDate": "2024-09-01",
+        "institution": {
+          "name": "Talently",
+          "URL": "https://talently.tech/certification/406205b2-0eef-474c-92c0-6bd3cc8e8436",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/06/7f4b499a-c0f2-4b38-a4b7-d99712b17a56_talentlytech_logo.jpg",
+            "alt": "talentlytech_logo.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "React Native",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Liderazgo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactividad",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/walter-chapilliquen-wzvang/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://stackoverflow.com/users/1074519/walter-chapilliquen-wzvang",
+          "type": "stackoverflow"
+        },
+        {
+          "URL": "https://github.com/wZVanG",
+          "type": "github"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "React Native",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Flutter",
+          "type": "technology"
+        },
+        {
+          "name": "WordPress",
+          "type": "technology"
+        },
+        {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent",
+        "freelance"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "React Native",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Mi trabajo ideal incluye desarrollar y desplegar soluciones innovadoras utilizando tecnologías modernas como Node.js, React y plataformas en la nube, enfocándome en escalabilidad e IA. Me interesa tanto contribuir en un equipo directamente al desarrollo técnico, siempre en un entorno colaborativo, ágil y transparente. Prefiero proyectos que impulsen la innovación y permitan crear soluciones de alto consumo por el cliente.",
+    "goodPractices": "Prioritizo la creación de soluciones escalables y sostenibles, enfocándome en el diseño de arquitecturas robustas y en la optimización del rendimiento desde la base. En mi día a día, analizo y depuro problemas técnicos con un enfoque lógico y sistemático, asegurándome de que cada implementación esté alineada con los objetivos del negocio",
+    "projects": [
+      {
+        "name": "Clini: Asistente de salud digital con inteligencia artificial"
+      },
+      {
+        "name": "IA en empresas con WAI Technology"
+      },
+      {
+        "name": "Ranking y análisis de datos"
+      },
+      {
+        "name": "SirveFácil - Innovación en restaurantes"
+      }
+    ],
+    "bookmarks": [
+      {
+        "name": "WAI.pe - Web de noticias sobre Inteligencia Artificial",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/06/8c1e0aaa-afcc-4412-8ca9-28c0935022e4_captura-de-pantalla-.png"
+      }
+    ]
+  }
+}
